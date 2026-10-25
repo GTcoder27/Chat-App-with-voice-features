@@ -313,6 +313,4 @@ Messages and user profiles are persisted in MongoDB. Images are uploaded to Clou
 
 Contributions are welcome. For substantial changes, open an issue first to discuss the proposed improvement.
 
-## License
 
-No project-specific license terms were confirmed from the supplied source archive. Add a `LICENSE` file before redistributing the project, and update this section to match your chosen license.
